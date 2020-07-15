@@ -1,0 +1,3 @@
+<view class="intro">
+  <button type="default" size="default" bindtap="defaultTap"> 上传图片 </button>
+</view>
